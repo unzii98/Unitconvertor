@@ -9,7 +9,7 @@ Original file is located at
 \
 """
 
-!pip install streamlit pyngrok
+pip install streamlit pyngrok
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
